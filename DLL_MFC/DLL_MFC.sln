@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLL_MFC", "DLL_MFC\DLL_MFC.vcxproj", "{1377B280-9E71-40C0-9161-F6B5D52B694E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLL_MFC_CALL", "DLL_MFC_CALL\DLL_MFC_CALL.vcxproj", "{B35572CC-9805-4E7F-A9A4-00F4326FC8E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1377B280-9E71-40C0-9161-F6B5D52B694E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1377B280-9E71-40C0-9161-F6B5D52B694E}.Debug|Win32.Build.0 = Debug|Win32
+		{1377B280-9E71-40C0-9161-F6B5D52B694E}.Release|Win32.ActiveCfg = Release|Win32
+		{1377B280-9E71-40C0-9161-F6B5D52B694E}.Release|Win32.Build.0 = Release|Win32
+		{B35572CC-9805-4E7F-A9A4-00F4326FC8E0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B35572CC-9805-4E7F-A9A4-00F4326FC8E0}.Debug|Win32.Build.0 = Debug|Win32
+		{B35572CC-9805-4E7F-A9A4-00F4326FC8E0}.Release|Win32.ActiveCfg = Release|Win32
+		{B35572CC-9805-4E7F-A9A4-00F4326FC8E0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
